@@ -9,12 +9,7 @@ This repository contains code to work with the CIFake dataset, which includes re
 
 ## Installation
 
-1. Clone the repository and navigate to the project directory:
-
-    ```bash
-    git clone <repository-url>
-    cd <repository-directory>
-    ```
+1. Clone the repository and navigate to the project directory
 
 2. Install the required packages by running:
 
