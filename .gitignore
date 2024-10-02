@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+cifake-real-and-ai-generated-synthetic-images/
+venv/
+.idea/
+
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
